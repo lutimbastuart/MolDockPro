@@ -34,6 +34,7 @@ if [ $(which obabel | wc -l) -eq 1 ]
 	else
 		echo -e "\e[48m Openbable doesn't exist on your system ): ......"
 		echo "Please first install Obable following the link below \n https://anaconda.org/conda-forge/openbabel \n or http://openbabel.org/wiki/Main_Page"
+		exit
 fi 
 
 for i in $(ls *docked*);
