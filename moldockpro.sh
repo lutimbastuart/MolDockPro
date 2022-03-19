@@ -20,7 +20,7 @@ Script_Documentation_ReadME
 
 ###Using Obable to convert the pdbqt file into separate pdb files in .pdb format (numbered numerically.)
 echo -e "\n" 
-read -e -p "Please input the receptor file (format .pdb) ie; 4zyr.pdb ...?  " receptor
+read -e -p "Please input the receptor file (format .pdb) ie; Psudo_Knot.pdb ...?  " receptor
 
 if [ $(which obabel | wc -l) -eq 1 ]
 	then
@@ -52,4 +52,7 @@ all_files=`echo $(cat all_combined.txt)`
 cat $all_files > lig_poses_mol_trajectory.pdb
 
 ###-- Cleaning Director
-rm all_combined.txt
+rm *out_docked* all_combined.txt ocke* 
+
+echo -e "\e[1m \e[32m    \t \t @Intertromics_AB && @AfriBioMol_AB"
+echo -e "\e[0m \t	\t      ©2022"
