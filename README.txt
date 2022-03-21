@@ -21,7 +21,7 @@ This only requires the openbable.
                 conda install -c conda-forge/label/cf202003 openbabe
 
 
-1.run the script as ./moldockpro.sh or bash moldockpro.sh
+1.Run the script as ./moldockpro.sh or bash moldockpro.sh
 2. Please provide the receptor file: (ie; Psudo_Knot.pdb)
 3. The output file is a PDB trajectory file with number of frames equal to the number of ligands previously in th pdbqt file.
 4.Visualize the trajectory in VMD (Visual Molecular Dynamics)
