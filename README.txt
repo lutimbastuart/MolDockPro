@@ -1,4 +1,4 @@
-chanism on a basis of their structure and function. I have built my skills and expertise in elucidating the relationship between sequence, structure and function of macromolecules as well as their interaction. This has been through the application of Structural Bioinformatics approaches not limited to computational modeling (all atom and Coarse grained molecular dynamics simulations), free energy perturbation but also macro molecular modeling and docking (ligand based and structure based docking). I therefore aim to play an integral role in the overall objective of the project, to develop and apply computational approaches to study the structural and dynamic basis of biomolecular processes.  		                     Intertromics AB / AfriBioMol AB 
+		                     Intertromics AB / AfriBioMol AB 
             			 Protein Structure Dynamics AND Drug Discovery 
     	                     		   By Lutimba Stuart
 		               Research Fellow at the National Tsing Hua University
