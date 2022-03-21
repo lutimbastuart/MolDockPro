@@ -1,4 +1,4 @@
-		                     Intertromics AB / AfriBioMol AB 
+chanism on a basis of their structure and function. I have built my skills and expertise in elucidating the relationship between sequence, structure and function of macromolecules as well as their interaction. This has been through the application of Structural Bioinformatics approaches not limited to computational modeling (all atom and Coarse grained molecular dynamics simulations), free energy perturbation but also macro molecular modeling and docking (ligand based and structure based docking). I therefore aim to play an integral role in the overall objective of the project, to develop and apply computational approaches to study the structural and dynamic basis of biomolecular processes.  		                     Intertromics AB / AfriBioMol AB 
             			 Protein Structure Dynamics AND Drug Discovery 
     	                     		   By Lutimba Stuart
 		               Research Fellow at the National Tsing Hua University
@@ -21,9 +21,9 @@ This only requires the openbable.
                 conda install -c conda-forge/label/cf202003 openbabe
 
 
-1.Run the script as ./moldockpro.sh or bash moldockpro.sh
+1. Run the script as ./moldockpro.sh or bash moldockpro.sh
 2. Please provide the receptor file: (ie; Psudo_Knot.pdb)
 3. The output file is a PDB trajectory file with number of frames equal to the number of ligands previously in th pdbqt file.
-4.Visualize the trajectory in VMD (Visual Molecular Dynamics)
+4. Visualize the trajectory in VMD (Visual Molecular Dynamics)
 
 Wish you all the best: 
