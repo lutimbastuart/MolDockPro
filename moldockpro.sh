@@ -37,7 +37,7 @@ if [ $(which obabel | wc -l) -eq 1 ]
 		echo -e "\e[0m"
 		exit
 fi 
-
+echo END >> $receptor
 for i in $(ls *docked*);
 do
 sed -i '/END/d' $i
